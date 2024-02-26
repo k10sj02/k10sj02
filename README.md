@@ -6,7 +6,7 @@ I'm Stann, a passionate Data Analyst leveraging my strategic finance and interna
 ## 🙋🏽‍♂️ About Me  
 - 👨🏽‍💻 Currently diving deep into SQL, Data Visualization, and Analytics Engineering. Open to opportunities in Data Analytics/Science.  
 - 💻 I have been honing my skills through various self-guided data projects that I will be displaying on my Github.  
-- 🧑🏽‍🔬🥼 Trained as a Political Statistician (MSc Political Science, Universitat Pompeu Fabra, Barcelona).
+- 🧑🏽‍🔬🥼 Trained as a Political Statistician (MSc Political Science).
 - 🇺🇸🇫🇷🇪🇸 Fluent in English, French, and Spanish.
 
 🛠️ Languages and Tools  
