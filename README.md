@@ -27,7 +27,8 @@ I'm Stann, a passionate Data Analyst leveraging my strategic finance and interna
 This is my project portfolio.
 
 ### SQL-based Projects
-- 
+- [8 Week SQL Challenge (Data with Danny)](https://https://github.com/k10sj02/serious-sql) PostgreSQL with Docker: Utilised PostgreSQL to clean and analyze eight different data from banking and sales, to name a few. Implemented various SQL techniques including window functions and CTEs.
+- [Covid Tracking Project](https://github.com/k10sj02/covid-tracking-project-sql) MySQL with MySQL Workbench: End-to-end project which utilized SQLAlchemy package in Python to transform, clean, and upload data to MySQL Workbench. Utilised MySQL to conduct exploratory data analytics to uncover global COVID-19 trends. Implemented various SQL techniques including Joins, Temp Tables, Aggregate Functions, Creating Views, Converting Data Types.
 
 ### Microsoft Excel-based Project
 - 
