@@ -17,3 +17,4 @@ I'm Stann, a passionate Data Analyst leveraging my strategic finance and interna
 - **Python** (Packages - SQLAlchemy, NumPy, Pandas, Matplotlib, SciPy, Scikit-learn, TensorFlow, PyTorch)
 - **R** (Packages - dplyr, ggplot2, tidyr, data.table, caret, tidyverse)
 - **Data Engineering** (Apache Airflow, dbt)
+- **Front-End Engineering** (HTML/CSS, Wordpress, Hugo)
