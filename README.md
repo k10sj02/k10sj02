@@ -34,7 +34,7 @@ This is my project portfolio.
 ### Microsoft Excel-based Project
 - 
 
-### Visualization
+### Visualizations
 - [Tableau](https://public.tableau.com/app/profile/stann6239)
 
 ## Degree, Certification, Courses
