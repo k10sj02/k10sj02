@@ -11,7 +11,7 @@ I'm Stann, a passionate Data Analyst leveraging my strategic finance and interna
 
 🛠️ Languages and Tools  
 - **SQL** (PostgreSQL - Docker & pgAdmin4, MySQL, Microsoft Azure, Google BigQuery, Microsoft SQL Server, SQLite, Azure Data Studio, SQL Server Management Studio (SSMS)) 
-- **Visualization** (Tableau, PowerBI, Sheets, Microsoft Excel)  
+- **Visualization** (Tableau, PowerBI, Sheets, Microsoft Excel, Flourish, Datawrapper)  
 - **Spreadsheets** (Microsoft Excel, Google Sheet)  
 - **DevTools** (Git, Bash, Visual Studio, Vim, Docker, Docker Compose)
 - **Python** (Packages - SQLAlchemy, NumPy, Pandas, Matplotlib, SciPy, Scikit-learn, TensorFlow, PyTorch)
