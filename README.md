@@ -13,6 +13,6 @@ I'm Stann, a passionate Data Analyst leveraging my strategic finance and interna
 - **Visualization** (Tableau, PowerBI, Sheets, Microsoft Excel)  
 - **Spreadsheets** (Microsoft Excel, Google Sheet)  
 - **DevTools** (Git, Bash, Visual Studio, Vim, Docker, Docker Compose)
-- **Python** (Packages: SQLAlchemy, NumPy, Pandas, Matplotlib, SciPy, Scikit-learn, TensorFlow, PyTorch)
-- **R** (Packages: dplyr, ggplot2, tidyr, data.table, caret, tidyverse)
+- **Python** (Packages - SQLAlchemy, NumPy, Pandas, Matplotlib, SciPy, Scikit-learn, TensorFlow, PyTorch)
+- **R** (Packages - dplyr, ggplot2, tidyr, data.table, caret, tidyverse)
 - **Data Engineering** (Apache Airflow, dbt)
