@@ -40,19 +40,24 @@ This is my project portfolio.
 ## Degree, Certification, Courses
 
 ### *SQL*
-- Serious SQL (Data with Danny by Danny Ma)
+- [Serious SQL (Data with Danny by Danny Ma)](https://www.datawithdanny.com/courses/serious-sql)
 
 ### *Python*
-- Introduction to Python, Seneca College
+- [Introduction to Python](https://www.senecapolytechnic.ca/ce/classes/PRO675.html), Seneca College
 
 ### *Microsoft Excel*
-- 
+- Excel Essentials for the Real World [Certificate](https://www.udemy.com/certificate/UC-2e8681d1-0822-4a29-9227-687c8fb72d0c/)
 
 ### *Tableau*
-- 
+- Tableau A-Z: Hands-On Tableau Training for Data Science [Certificate](https://www.udemy.com/certificate/UC-14fe96cd-1b72-4d5a-a1c4-bdde30c3d06b/)
+
+### *Salesforce*
+- Salesforce Administrator Course, Achēv 
 
 ### *Data Analytics*
-- 
+- Data Analytics Bootcamp, General Assembly
+- Strategy & Operations Bootcamp, The Commons
+- Strategic Finance Sprint, The Commons 
 
 ### *Degree*
 - Microcredential, Data Science, Sheridan College, Toronto, Canada 🎓📊
