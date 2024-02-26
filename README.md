@@ -21,7 +21,7 @@ I'm Stann, a passionate Data Analyst leveraging my strategic finance and interna
 - **Front-End** (HTML/CSS, Wordpress, Hugo)
 
 ## 📚 Articles
-- 
+- *Pending*
 
 ## 📈 Projects
 This is my project portfolio.
