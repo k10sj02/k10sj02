@@ -20,7 +20,7 @@ I'm Stann, a passionate Data Analyst leveraging my strategic finance and interna
 - **DevTools** (Git, Bash, Visual Studio, Vim, Docker, Docker Compose)
 - **Front-End Engineering** (HTML/CSS, Wordpress, Hugo)
 
-## 📚 Article
+## 📚 Articles
 - 
 
 ## 📈 Projects
