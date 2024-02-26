@@ -32,7 +32,7 @@ This is my project portfolio.
 - [8 Week SQL Challenge (Data with Danny)](https://https://github.com/k10sj02/serious-sql) PostgreSQL with Docker: Utilised PostgreSQL to clean and analyze eight different data from banking and sales, to name a few. Implemented various SQL techniques including window functions and CTEs. *Incomplete*
 
 ### Microsoft Excel-based Project
-- 
+- *Pending*
 
 ### Visualizations
 - [Tableau](https://public.tableau.com/app/profile/stann6239)
