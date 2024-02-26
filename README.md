@@ -19,3 +19,47 @@ I'm Stann, a passionate Data Analyst leveraging my strategic finance and interna
 - **Data Engineering** (Apache Airflow, dbt)
 - **DevTools** (Git, Bash, Visual Studio, Vim, Docker, Docker Compose)
 - **Front-End Engineering** (HTML/CSS, Wordpress, Hugo)
+
+## 📚 Article
+- 
+
+## 📈 Projects
+This is my project portfolio.
+
+### SQL-based Projects
+- 
+
+### Microsoft Excel-based Project
+- 
+
+### Visualization
+- [Tableau](https://public.tableau.com/app/profile/stann6239)
+
+## Degree, Certification, Courses
+
+### *SQL*
+- Serious SQL (Data with Danny by Danny Ma)
+
+### *Python*
+- Introduction to Python, Seneca College
+
+### *Microsoft Excel*
+- 
+
+### *Tableau*
+- 
+
+### *Data Analytics*
+- 
+
+### *Degree*
+- Microcredential, Data Science, Sheridan College, Toronto, Canada 🎓📊
+- MSc, Political Science, Universitat Pompeu Fabra, Barcelona, Spain 🎓🌍
+- BA, International Studies, Kalamazoo College, Kalamazoo, USA 🎓🌐
+
+### 🤝 Connect with Me
+- [LinkedIn](www.linkedin.com/in/stannomarjones) *social*
+- sjonesgrad@icloud.com *email*
+
+### My Data Journey
+
