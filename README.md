@@ -7,7 +7,7 @@ I'm Stann, a passionate Data Analyst leveraging my strategic finance and interna
 - 👨🏽‍💻 Currently diving deep into SQL, Data Visualization, and Analytics Engineering. Open to opportunities in Data Analytics/Science.  
 - 💻 I have been honing my skills through various self-guided data projects that I will be displaying on my Github.  
 - 🧑🏽‍🔬🥼 Trained as a Political Statistician (MSc Political Science, Universitat Pompeu Fabra, Barcelona).
-- Fluent in English, French and Spanish.
+- 🇺🇸🇫🇷🇪🇸 Fluent in English, French, and Spanish.
 
 🛠️ Languages and Tools  
 - **SQL** (PostgreSQL - Docker & pgAdmin4, MySQL, Microsoft Azure, Google BigQuery, Microsoft SQL Server, SQLite, Azure Data Studio, SQL Server Management Studio (SSMS)) 
