@@ -28,7 +28,7 @@ This is my project portfolio.
 
 ### SQL-based Projects
 - [SQL Web Analytics - SQL Web Analytics - Unveiling Trends & Strategies in Political Advocacy](https://github.com/k10sj02/web-analytics-sql) SQLite: 
-- [Global Covid Tracking Project](https://github.com/k10sj02/covid-tracking-project-sql) MySQL with MySQL Workbench: Executed an end-to-end project leveraging the SQLAlchemy package in Python to transform, clean, and upload data to MySQL Workbench. Utilised MySQL to conduct exploratory data analytics to uncover global COVID-19 trends. Illustrates SQL techniques including Joins, Temp Tables, Aggregate Functions, Creating Views, Converting Data Types. Created data visualizations in [Tableau](https://public.tableau.com/app/profile/stann6239/viz/covid-tracking-global/COVID-Dashboard)
+- [Global Covid Tracking Project](https://github.com/k10sj02/covid-tracking-project-sql) MySQL with MySQL Workbench: Executed an end-to-end project leveraging the SQLAlchemy package in Python to transform, clean, and upload data to MySQL Workbench. Utilised MySQL to conduct exploratory data analytics to uncover global COVID-19 trends. Illustrates SQL techniques including Joins, Temp Tables, Aggregate Functions, Creating Views, Converting Data Types. Created dashboard in [Tableau](https://public.tableau.com/app/profile/stann6239/viz/covid-tracking-global/COVID-Dashboard)
 - [8 Week SQL Challenge (Data with Danny)](https://https://github.com/k10sj02/serious-sql) PostgreSQL with Docker: Utilised PostgreSQL to clean and analyze eight different data from banking and sales, to name a few. Implemented various SQL techniques including window functions and CTEs. *Still unfinished*
 
 ### Microsoft Excel-based Project
