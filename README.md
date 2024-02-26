@@ -74,4 +74,5 @@ This is my project portfolio.
 - [LinkedIn](https://linkedin.com/in/stannomarjones) *social*
 
 ### My Data Journey
+- *Pending*
 
