@@ -58,7 +58,7 @@ This is my project portfolio.
 - BA, International Studies, Kalamazoo College, Kalamazoo, USA 🎓🌐
 
 ### 🤝 Connect with Me
-- [LinkedIn](www.linkedin.com/in/stannomarjones) *social*
+- [LinkedIn](https://linkedin.com/in/stannomarjones) *social*
 
 ### My Data Journey
 
