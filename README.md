@@ -37,6 +37,9 @@ This is my project portfolio.
 ### Python-based Projects
 - *Pending*
 
+### R-based Projects
+- *Pending*
+
 ### Microsoft Excel-based Project
 - *Pending*
 
