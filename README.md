@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there 👋🏽 
 
-Hi there 👋🏽  
 I'm Stann, a passionate Data Analyst leveraging my strategic finance and politics background to unlock data insights.
 
 ## 🙋🏽‍♂️ About Me  
