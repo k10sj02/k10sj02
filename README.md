@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Hi there 👋🏽  
-I'm Stann, a passionate Data Analyst leveraging my strategic finance and international development background to unlock data insights.
+I'm Stann, a passionate Data Analyst leveraging my strategic finance and political background to unlock data insights.
 
 ## 🙋🏽‍♂️ About Me  
 - 👨🏽‍💻 Currently diving deep into SQL, Data Visualization, and Analytics Engineering. Open to opportunities in Data Analytics/Science.  
