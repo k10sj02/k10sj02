@@ -59,7 +59,6 @@ This is my project portfolio.
 
 ### 🤝 Connect with Me
 - [LinkedIn](www.linkedin.com/in/stannomarjones) *social*
-- sjonesgrad@icloud.com *email*
 
 ### My Data Journey
 
