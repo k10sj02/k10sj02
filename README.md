@@ -31,11 +31,15 @@ This is my project portfolio.
 - [Global Covid Tracking Project](https://github.com/k10sj02/covid-tracking-project-sql) Utilized MySQL and MySQL Workbench to implement an ETL pipeline for a comprehensive project. Leveraged SQLAlchemy in Python to transform, clean, and upload data to a MySQL data warehouse. Conducted exploratory data analytics to uncover global COVID-19 trends from the data warehouse. Created dashboard in [Tableau](https://public.tableau.com/app/profile/stann6239/viz/covid-tracking-global/COVID-Dashboard)
 - [8 Week SQL Challenge (Data with Danny)](https://https://github.com/k10sj02/serious-sql) PostgreSQL with Docker: Utilised PostgreSQL to clean and analyze eight different data from banking and sales, to name a few. Implemented various SQL techniques including window functions and CTEs. *Incomplete*
 
+### Tableau-based Projects
+
+### Python-based Projects
+
 ### Microsoft Excel-based Project
 - *Pending*
 
 ### Visualizations
-- [Tableau](https://public.tableau.com/app/profile/stann6239)
+- [Tableau profile](https://public.tableau.com/app/profile/stann6239)
 
 ## Degree, Certification, Courses
 
