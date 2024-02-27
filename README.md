@@ -84,7 +84,7 @@ My career journey began in the world of social impact, where I leveraged financi
 
 - Social impact investing organizations: Assisting them in analyzing investments that create positive social and environmental change.
 - Human rights campaigning organizations: Utilizing data to amplify their voices and drive impactful advocacy.
-My work even contributed to documentary film projects, which went on to win prestigious awards like the Oscars (The White Helmets) and BAFTA Awards (For Sama), highlighting the power of storytelling and data combined.
+My work even contributed to documentary film projects, which won prestigious awards like the Oscars ([The White Helmets](https://www.imdb.com/title/tt6073176/)) and BAFTA Awards ([For Sama](https://www.imdb.com/title/tt9617456/)), highlighting the power of storytelling and data combined.
 
 *Transitioning to Data - Bridging the Gap:*
 
