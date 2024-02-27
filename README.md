@@ -76,6 +76,28 @@ This is my project portfolio.
 ### 🤝 Connect with Me
 - [LinkedIn](https://linkedin.com/in/stannomarjones) *social*
 
-### My Data Journey
-- *Pending*
+### Career Overview
+
+*From Humanitarian Impact to Data-Driven Insights:*
+
+My career journey began in the world of social impact, where I leveraged financial and accounting expertise to support diverse organizations across the Middle East, Latin America, and the Caribbean. This included working with:
+
+- Social impact investing organizations: Assisting them in analyzing investments that create positive social and environmental change.
+- Human rights campaigning organizations: Utilizing data to amplify their voices and drive impactful advocacy.
+My work even contributed to documentary film projects, which went on to win prestigious awards like the Oscars (The White Helmets) and BAFTA Awards (For Sama), highlighting the power of storytelling and data combined.
+
+*Transitioning to Data - Bridging the Gap:*
+
+Drawing on this diverse experience, I transitioned to the world of data. My proven ability to optimize business initiatives:
+
+- Blends technical skill with business acumen: I'm proficient in Excel, SQL, Python, and R, alongside a strong understanding of UX/UI design principles and mastery of Tableau.
+- Bridges the gap between stakeholders: I effectively communicate insights to diverse audiences, empowering business leaders to make data-driven decisions.
+- Fosters collaboration: My collaborative nature, proactive approach, and high emotional intelligence enable me to seamlessly integrate into dynamic teams.
+
+*Impactful Results - Driving Growth and Sustainability:*
+
+My passion for utilizing data for good has yielded tangible results. Through dynamic financial and data analysis, I've:
+
+- Designed business initiatives raising over USD$120 million for 300+ tech startups and nonprofits.
+- Contributed to the creation of 5,000+ jobs and positively impacted over 19 million lives across multiple regions.
 
