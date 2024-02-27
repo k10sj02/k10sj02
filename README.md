@@ -18,6 +18,7 @@ I'm Stann, a passionate Data Analyst leveraging my strategic finance and politic
 - **Data Engineering** (Apache Airflow, dbt)
 - **DevTools** (Git, Bash, Visual Studio, Vim, Docker, Docker Compose)
 - **Front-End** (HTML/CSS, Wordpress, Hugo)
+- **CRM** (Salesforce)
 
 ## 📚 Articles
 - *Pending*
