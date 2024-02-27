@@ -32,7 +32,7 @@ This is my project portfolio.
 - [8 Week SQL Challenge (Data with Danny)](https://github.com/k10sj02/serious-sql) PostgreSQL with Docker: Utilised PostgreSQL to clean and analyze eight different data from banking and sales, to name a few. Implemented various SQL techniques including window functions and CTEs. *Incomplete*
 
 ### Tableau-based Projects
-- [Real Estate Analytics: King County Housing Sales Dashboard](https://public.tableau.com/app/profile/stann6239/viz/Kings-County-Housing-Sales/HousingSalesDash) Built an interactive dashboard with calendar widget as main filter and multiple visuals including a line chart, histograms, a map, and a heatmap.
+- [Real Estate Analytics for King County, WA: Housing Sales Dashboard](https://public.tableau.com/app/profile/stann6239/viz/Kings-County-Housing-Sales/HousingSalesDash) Built an interactive dashboard with calendar widget as main filter and multiple visuals including a line chart, histograms, a map, and a heatmap.
 - [Global Covid Tracking Dashboard](https://public.tableau.com/app/profile/stann6239/viz/covid-tracking-global/COVID-Dashboard) Integrated SQL server data into a dynamic dashboard featuring a diverse array of visualizations, including interactive line charts, histograms, and geographic maps, illustrating COVID-19 trends.
 
 ### Python-based Projects
