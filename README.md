@@ -38,7 +38,7 @@ This is my project portfolio.
 - [Gender Analytics: American Views of Masculinity](https://github.com/k10sj02/us_views_of_masculinity) Preprocessed national US masculinity survey dataset, including data loading, mapping, cleaning, and exploration. Employed predictive analytical methods such as regression analysis, random forest, and XGBoost as well as advanced machine learning techniques such as feature engineering, hyperparameter tuning to predict masculinity of respondents. Packages utilized include: `pandas`, `matplotlib`, `sklearn`, `geopandas`. *In progress*
 
 ### R-based Projects
-- [British Columbia Labor Market Research](https://github.com/k10sj02/BC_Labor_Statistics_Exploration/) Imported, cleaned, and merged CSV datasets on provincial labor market statistics. Visualized monthly employment changes across Canadian provinces, with a focus on sectors like accommodation, food services, and retail trade. Packages utilized include: `tidyverse`, `dplyr`, `lubridate`.
+- [British Columbia Labor Market Research](https://github.com/k10sj02/BC_Labor_Statistics_Exploration/) Imported, cleaned, and merged CSV datasets on Canadian provincial labor market statistics. Visualized monthly employment changes across Canadian provinces, with a focus on sectors like accommodation, food services, and retail trade. Packages utilized include: `tidyverse`, `dplyr`, `lubridate`.
 
 ### Microsoft Excel-based Project
 - *Pending*
