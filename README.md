@@ -77,7 +77,7 @@ This is my project portfolio.
 ### 🤝 Connect with Me
 - [LinkedIn](https://linkedin.com/in/stannomarjones) *social*
 
-### Career Overview
+### Career Journey
 
 *From Humanitarian Impact to Data-Driven Insights:* 🌍📊
 
