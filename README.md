@@ -35,7 +35,7 @@ This is my project portfolio.
 - [Global Covid Tracking Dashboard](https://public.tableau.com/app/profile/stann6239/viz/covid-tracking-global/COVID-Dashboard) Integrated SQL server data into a dynamic dashboard featuring a diverse array of visualizations, including interactive line charts, histograms, and geographic maps, illustrating COVID-19 trends.
 
 ### Python-based Projects
-- [Gender Analytics: Views of Masculinity](https://github.com/k10sj02/views_of_masculinity) Preprocessed a masculinity survey dataset, including data loading, cleaning, and exploration. Employed predictive analytical techniques such as regression analysis, random forest, and XGBoost as well as advanced machine learning techniques such as feature engineering, hyperparameter tuning, , enabled by the transformation of categorical variables for enhanced predictive modeling capabilities *In progress*
+- [Gender Analytics: Views of Masculinity](https://github.com/k10sj02/views_of_masculinity) Preprocessed national US masculinity survey dataset, including data loading, mapping, cleaning, and exploration. Employed predictive analytical methods such as regression analysis, random forest, and XGBoost as well as advanced machine learning techniques such as feature engineering, hyperparameter tuning. *In progress*
 
 ### R-based Projects
 - *Pending*
