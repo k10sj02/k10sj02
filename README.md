@@ -31,14 +31,14 @@ This is my project portfolio.
 - [8 Week SQL Challenge (Data with Danny)](https://https://github.com/k10sj02/serious-sql) PostgreSQL with Docker: Utilised PostgreSQL to clean and analyze eight different data from banking and sales, to name a few. Implemented various SQL techniques including window functions and CTEs. *Incomplete*
 
 ### Tableau-based Projects
-- [King County Housing Sales Dashboard](https://public.tableau.com/app/profile/stann6239/viz/Kings-County-Housing-Sales/HousingSalesDash) Built an interactive dashboard with calendar widget as main filter and multiple visuals including a line chart, histograms, a map, and a heatmap.
+- [Real Estate Analytics: King County Housing Sales Dashboard](https://public.tableau.com/app/profile/stann6239/viz/Kings-County-Housing-Sales/HousingSalesDash) Built an interactive dashboard with calendar widget as main filter and multiple visuals including a line chart, histograms, a map, and a heatmap.
 - [Global Covid Tracking Dashboard](https://public.tableau.com/app/profile/stann6239/viz/covid-tracking-global/COVID-Dashboard) Integrated SQL server data into a dynamic dashboard featuring a diverse array of visualizations, including interactive line charts, histograms, and geographic maps, illustrating COVID-19 trends.
 
 ### Python-based Projects
-- [Gender Analytics: American Views of Masculinity](https://github.com/k10sj02/views_of_masculinity) Preprocessed national US masculinity survey dataset, including data loading, mapping, cleaning, and exploration. Employed predictive analytical methods such as regression analysis, random forest, and XGBoost as well as advanced machine learning techniques such as feature engineering, hyperparameter tuning. Packages utilized include: `pandas`, `matplotlib`, `sklearn`, `geopandas`. *In progress*
+- [Gender Analytics: American Views of Masculinity](https://github.com/k10sj02/us_views_of_masculinity) Preprocessed national US masculinity survey dataset, including data loading, mapping, cleaning, and exploration. Employed predictive analytical methods such as regression analysis, random forest, and XGBoost as well as advanced machine learning techniques such as feature engineering, hyperparameter tuning to predict masculinity of respondents. Packages utilized include: `pandas`, `matplotlib`, `sklearn`, `geopandas`. *In progress*
 
 ### R-based Projects
-- *Pending*
+- Imported, cleaned, and merged CSV datasets on provincial labor market statistics. Visualized monthly employment changes across Canadian provinces, with a focus on sectors like accommodation, food services, and retail trade. Packages utilized include: `tidyverse`, `dplyr`, `lubridate`.
 
 ### Microsoft Excel-based Project
 - *Pending*
