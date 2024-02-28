@@ -9,7 +9,7 @@ I'm Stann, a passionate Data Analyst leveraging my strategic finance and politic
 - 🇺🇸🇫🇷🇪🇸 Fluent in English, French, and Spanish.
 
 🛠️ Languages and Tools  
-- **SQL** (PostgreSQL - Docker & pgAdmin4, MySQL, Microsoft Azure, Google BigQuery, Microsoft SQL Server, SQLite, Transact-SQL - SQL Server Management Studio (SSMS), Azure Data Studio)
+- **SQL** (PostgreSQL - Docker & pgAdmin4, Transact-SQL - SQL Server Management Studio (SSMS), Azure Data Studio, MySQL, Google BigQuery, Microsoft SQL Server, SQLite)
 - **Data Prep** (OpenRefine)
 - **Visualization** (Tableau, PowerBI, GSheets, Microsoft Excel, Flourish, Datawrapper)  
 - **Spreadsheets** (Microsoft Excel, GSheets)
@@ -17,6 +17,7 @@ I'm Stann, a passionate Data Analyst leveraging my strategic finance and politic
 - **R** (Packages - dplyr, ggplot2, tidyr, data.table, caret, tidyverse) 
 - **Data Engineering** (Apache Airflow, dbt)
 - **DevTools** (Git, Bash, Visual Studio, Vim, Docker, Docker Compose)
+- **Cloud Computing** (Microsoft Azure)
 - **Front-End** (HTML/CSS, Wordpress, Hugo)
 - **CRM** (Salesforce)
 
