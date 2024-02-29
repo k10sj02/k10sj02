@@ -42,7 +42,7 @@ This is my project portfolio.
 ### R-based Projects
 - [British Columbia Labor Market Research](https://github.com/k10sj02/BC_Labor_Statistics_Exploration/) Imported, cleaned, and merged CSV datasets on Canadian provincial labor market statistics. Visualized monthly employment changes across Canadian provinces, with a focus on sectors like accommodation, food services, and retail trade. Packages utilized include: `tidyverse`, `dplyr`, `lubridate`.
 
-### Microsoft Excel-based Project
+### Microsoft Excel-based Projects
 - *Pending*
 
 ### Visualizations
@@ -68,7 +68,7 @@ This is my project portfolio.
 ### *Data Analytics*
 - Data Analytics Bootcamp, General Assembly
 - Strategy & Operations Bootcamp, The Commons
-- Strategic Finance Sprint, The Commons 
+- Strategic Finance Bootcamp, The Commons 
 
 ### *Degree*
 - Microcredential, Data Science, Sheridan College, Toronto, Canada 🎓📊
