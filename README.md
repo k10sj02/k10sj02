@@ -35,7 +35,7 @@ This is my project portfolio.
 
 ### Tableau-based Projects
 - [Real Estate Analytics for King County, WA: Housing Sales Dashboard](https://public.tableau.com/app/profile/stann6239/viz/Kings-County-Housing-Sales/HousingSalesDash) Built an interactive dashboard with calendar widget as main filter and multiple visuals including a line chart, histograms, a map, and a heatmap.
-- [Tableau](https://public.tableau.com/views/Cohort-Retention-Dashboard/Dashboard1?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link) Built dashboard that visualizes the time-series retention rates of customer cohorts over time and dynamic percentage breakdowns of cohort behavior, enabling stakeholders to identify trends and patterns in customer retention and churn. 
+- [Online Commerce Cohort Analysis](https://public.tableau.com/views/Cohort-Retention-Dashboard/Dashboard1?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link) Built dashboard that visualizes the time-series retention rates of customer cohorts over time and dynamic percentage breakdowns of cohort behavior, enabling stakeholders to identify trends and patterns in customer retention and churn. 
 - [Global Covid Tracking Dashboard](https://public.tableau.com/app/profile/stann6239/viz/covid-tracking-global/COVID-Dashboard) Integrated SQL server data into a dynamic dashboard featuring a diverse array of visualizations, including interactive line charts, histograms, and geographic maps, illustrating COVID-19 trends.
 
 ### Python-based Projects
