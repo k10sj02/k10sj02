@@ -14,7 +14,7 @@ I'm Stann, a passionate Data Analyst leveraging my strategic finance and politic
 - **Visualization** (Tableau, PowerBI, GSheets, Microsoft Excel, Flourish, Datawrapper)  
 - **Spreadsheets** (Microsoft Excel, GSheets)
 - **Python** (Libraries - `SQLAlchemy`, `NumPy`, `pandas`, `matplotlib`, `scikit-learn`, `nltk`, `geopandas`)
-- **R** (Libraries - dplyr, ggplot2, tidyr, data.table, caret, tidyverse) 
+- **R** (Packages - `dplyr`, `ggplot2`, `tidyr`, `data.table`, `caret`, `tidyverse`) 
 - **Data Engineering** (Apache Airflow, dbt)
 - **DevTools** (Git, Bash, Visual Studio, Vim, Docker, Docker Compose)
 - **Cloud Computing** (Microsoft Azure)
