@@ -3,13 +3,13 @@
 I'm Stann, a passionate Data Analyst leveraging my strategic finance and politics background to unlock data insights.
 
 ## 🙋🏽‍♂️ About Me  
-- 👨🏽‍💻 Currently diving deep into SQL, Python, Data Visualization, and Analytics Engineering. Open to opportunities in Data Analytics/Science.  
+- 👨🏽‍💻 Currently diving deep into SQL, Python, Data Visualization, Analytics Engineering, and Geospatial Data Science. Open to opportunities in Data Analytics/Science.  
 - 💻 I have been honing my skills through various self-guided data projects that I will be displaying on my Github.  
 - 🧑🏽‍🔬🥼 Trained as a Political Statistician (MSc Political Science).
 - 🇺🇸🇫🇷🇪🇸 Fluent in English, French, and Spanish.
 
 🛠️ Languages and Tools  
-- **SQL** (PostgreSQL - Docker & pgAdmin4, Transact-SQL - Microsoft SQL Server, SQL Server Management Studio (SSMS) & Azure Data Studio, MySQL, Google BigQuery, Redash, SQLite)
+- **SQL** (PostgreSQL - Docker & pgAdmin4, `PostGIS` extension, Transact-SQL - Microsoft SQL Server, SQL Server Management Studio (SSMS) & Azure Data Studio, MySQL, Google BigQuery, Redash, SQLite)
 - **Data Prep** (OpenRefine)
 - **Visualization** (Tableau, PowerBI, GSheets, Microsoft Excel, Flourish, Datawrapper)  
 - **Spreadsheets** (Microsoft Excel, GSheets)
