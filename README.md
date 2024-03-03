@@ -3,7 +3,7 @@
 I'm Stann, a passionate Data Analyst leveraging my strategic finance and politics background to unlock data insights.
 
 ## 🙋🏽‍♂️ About Me  
-- 👨🏽‍💻 Currently diving deep into SQL, Python, Data Visualization, Analytics Engineering, and Geospatial Data Science. Open to opportunities in Data Analytics/Science.  
+- 👨🏽‍💻 Currently diving deep into SQL, Python, Data Visualization, and Analytics Engineering. Open to opportunities in Data Analytics/Science.  
 - 💻 I have been honing my skills through various self-guided data projects that I will be displaying on my Github.  
 - 🧑🏽‍🔬🥼 Trained as a Political Statistician (MSc Political Science).
 - 🇺🇸🇫🇷🇪🇸 Fluent in English, French, and Spanish.
