@@ -22,7 +22,7 @@ I'm Stann, a passionate Data Analyst leveraging my strategic finance and politic
 - **CRM** (Salesforce)
 
 ## 📚 Articles
-- *Pending*
+- [Understanding the Cohort Table: A Step-by-Step Guide](https://stannomarjones.com/posts/cohort-analysis/) The article delves into cohort tables, showcasing their role in understanding customer behavior. It explores reading methods and insights derived from the data, highlighting opportunities and limitations for business decisions.
 
 ## 📈 Projects
 This is my project portfolio.
