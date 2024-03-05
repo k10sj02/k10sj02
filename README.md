@@ -15,7 +15,7 @@ I'm Stann, a passionate Data Analyst leveraging my strategic finance and politic
 - **Spreadsheets** (Microsoft Excel, GSheets)
 - **Python** (Libraries - `SQLAlchemy`, `NumPy`, `pandas`, `matplotlib`, `scikit-learn`, `nltk`, `geopandas`)
 - **R** (Packages - `dplyr`, `ggplot2`, `tidyr`, `data.table`, `caret`, `tidyverse`)
-- **GIS** QGIS
+- **GIS (Mapping)** QGIS
 - **Data Engineering** (Apache Airflow, dbt)
 - **DevTools** (Git, Bash, Visual Studio, Vim, Docker, Docker Compose, Github Actions)
 - **Cloud Computing** (Microsoft Azure, GCP)
