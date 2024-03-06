@@ -17,7 +17,7 @@ I'm Stann, a passionate Data Analyst leveraging my strategic finance and politic
 - **R** (Packages - `dplyr`, `ggplot2`, `tidyr`, `data.table`, `caret`, `tidyverse`)
 - **GIS (Mapping)** QGIS
 - **Data Engineering** Apache Airflow, dbt
-- **DevTools** Git, (Terminal - `bash`, `zsh`, oh-my-zsh, iTerm2), Visual Studio, vim, Docker, Docker Compose, Github Actions)
+- **DevTools** Git, (Shell - `bash`, `zsh`, oh-my-zsh, Terminal, iTerm2), Visual Studio, vim, Docker, Docker Compose, Github Actions)
 - **Cloud Computing** Microsoft Azure, GCP
 - **Front-End** HTML/CSS, Wordpress, Hugo
 - **CRM** Salesforce
