@@ -11,16 +11,16 @@ I'm Stann, a passionate Data Analyst leveraging my strategic finance and politic
 🛠️ Languages and Tools  
 - **SQL** (PostgreSQL - Docker, pgAdmin4, & [PostGIS](https://postgis.net/) for spatial SQL), Transact-SQL - Microsoft SQL Server, SQL Server Management Studio (SSMS) & Azure Data Studio, MySQL, Google BigQuery, Redash, SQLite)
 - **Data Prep** (OpenRefine)
-- **Visualization** (Tableau, PowerBI, GSheets, Microsoft Excel, Flourish, Datawrapper)  
-- **Spreadsheets** (Microsoft Excel, GSheets)
+- **Visualization** Tableau, PowerBI, GSheets, Microsoft Excel, Flourish, Datawrapper  
+- **Spreadsheets** Microsoft Excel, GSheets
 - **Python** (Libraries - `SQLAlchemy`, `NumPy`, `pandas`, `matplotlib`, `seaborn`, `scikit-learn`, `NLTK`, `geopandas`)
 - **R** (Packages - `dplyr`, `ggplot2`, `tidyr`, `data.table`, `caret`, `tidyverse`)
 - **GIS (Mapping)** QGIS
-- **Data Engineering** (Apache Airflow, dbt)
-- **DevTools** (Git, Bash, Visual Studio, Vim, Docker, Docker Compose, Github Actions)
-- **Cloud Computing** (Microsoft Azure, GCP)
-- **Front-End** (HTML/CSS, Wordpress, Hugo)
-- **CRM** (Salesforce)
+- **Data Engineering** Apache Airflow, dbt
+- **DevTools** Git, (Terminal - bash, zsh, oh-my-zsh, iTerm2), Visual Studio, vim, Docker, Docker Compose, Github Actions)
+- **Cloud Computing** Microsoft Azure, GCP
+- **Front-End** HTML/CSS, Wordpress, Hugo
+- **CRM** Salesforce
 
 ## 📚 Articles
 - [Understanding the Cohort Table: A Step-by-Step Guide](https://stannomarjones.com/posts/cohort-analysis/) The article delves into cohort tables, showcasing their role in understanding customer behavior. It explores reading methods and insights derived from the data, highlighting opportunities and limitations for business decisions.
