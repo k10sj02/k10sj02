@@ -13,7 +13,7 @@ I'm Stann, a passionate Data Analyst leveraging my strategic finance and politic
 - **Data Prep** (OpenRefine)
 - **Visualization** (Tableau, PowerBI, GSheets, Microsoft Excel, Flourish, Datawrapper)  
 - **Spreadsheets** (Microsoft Excel, GSheets)
-- **Python** (Libraries - `SQLAlchemy`, `NumPy`, `pandas`, `matplotlib`, `scikit-learn`, `nltk`, `geopandas`)
+- **Python** (Libraries - `SQLAlchemy`, `NumPy`, `pandas`, `matplotlib`, `seaborn`, `scikit-learn`, `nltk`, `geopandas`)
 - **R** (Packages - `dplyr`, `ggplot2`, `tidyr`, `data.table`, `caret`, `tidyverse`)
 - **GIS (Mapping)** QGIS
 - **Data Engineering** (Apache Airflow, dbt)
