@@ -19,8 +19,9 @@ I'm Stann, a passionate Data Analyst leveraging my strategic finance and politic
 - **Data Engineering** Apache Airflow, dbt
 - **DevTools** Git, Terminal, Visual Studio, vim, Docker, Docker Compose, Github Actions)
 - **Cloud Computing** Microsoft Azure, GCP
-- **Front-End** HTML/CSS, Wordpress, Hugo
+- **Front-End** HTML/CSS, Wordpress, Hugo, LaTeX
 - **CRM** Salesforce
+- **Document Preparation** LaTeX
 
 ## 📚 Articles
 - [Understanding the Cohort Table: A Step-by-Step Guide](https://stannomarjones.com/posts/cohort-analysis/) The article delves into cohort tables, showcasing their role in understanding customer behavior. It explores reading methods and insights derived from the data, highlighting opportunities and limitations for business decisions.
