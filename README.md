@@ -11,7 +11,7 @@ I'm Stann, a passionate Data Analyst leveraging my strategic finance and politic
 🛠️ Languages and Tools  
 - **SQL** (PostgreSQL - Docker, pgAdmin4, & [PostGIS](https://postgis.net/) for spatial SQL), Transact-SQL - Microsoft SQL Server, SQL Server Management Studio (SSMS) & Azure Data Studio, MySQL, Google BigQuery, Redash, SQLite)
 - **Data Prep** (OpenRefine)
-- **Visualization** Tableau, PowerBI, GSheets, Microsoft Excel, Flourish, Datawrapper  
+- **Visualization** Tableau, PowerBI, Microsoft Excel, Flourish, Datawrapper  
 - **Spreadsheets** Microsoft Excel, GSheets
 - **Python** (Libraries - `SQLAlchemy`, `NumPy`, `pandas`, `matplotlib`, `seaborn`, `scikit-learn`, `NLTK`, `geopandas`)
 - **R** (Packages - `dplyr`, `ggplot2`, `tidyr`, `data.table`, `caret`, `tidyverse`)
