@@ -58,11 +58,12 @@ Collection of SQL problem-solving patterns (CTEs, window functions, transformati
 
 ---
 
-## Tech I Reach For
+## Tech
 
-SQL · Python · BigQuery · dbt · Snowflake  
-Tableau · Power BI  
-APIs · data pipelines · lightweight ML  
+**Core:** SQL, Python  
+**Data:** BigQuery, Snowflake, PostgreSQL, dbt  
+**Viz:** Power BI, Tableau, Looker
+**Infra:** Git, Docker, cloud (GCP/AWS)
 
 ---
 
