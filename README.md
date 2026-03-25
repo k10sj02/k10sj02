@@ -63,7 +63,7 @@ Collection of SQL problem-solving patterns (CTEs, window functions, transformati
 **Core:** SQL, Python  
 **Data:** BigQuery, Snowflake, PostgreSQL, dbt  
 **Viz:** Power BI, Tableau, Looker 
-**Infra:** Git, Docker, cloud (GCP/AWS)
+**Infra:** Git, Docker, cloud (GCP/AWS) 
 
 ---
 
