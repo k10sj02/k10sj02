@@ -1,6 +1,4 @@
-# Hi there 👋🏽
-
-I’m Stann
+# Hi there, I’m Stann 👋🏽
 
 I build data systems, models, and tools that help people make better decisions.
 
