@@ -1,87 +1,80 @@
 # Hi — I’m Stann 👋🏽
 
-I’m a data scientist working at the intersection of analytics, engineering, and real-world decision-making.
+I build data systems, models, and tools that help people make better decisions.
 
-My work focuses on building data systems, models, and tools that drive revenue, operations, and impact — particularly in fundraising, civic tech, and mission-driven organizations.
+Most of my work sits somewhere between analytics, engineering, and product — usually in messy, real-world environments (fundraising, civic tech, ops).
 
-I’ve worked across global orgs (UNICEF, advocacy campaigns, SaaS) on problems like portfolio optimization, CRM modeling, geospatial targeting, and production-grade data pipelines.
-
----
-
-## Selected Work
-
-### Geospatial Targeting System (Voter Outreach)
-Built a geospatial targeting engine using Google Places API and demographic features to identify ~15K high-propensity outreach locations (e.g., barbershops and salons).
-
-The system powered 130K+ calls and SMS conversations and improved targeting efficiency while reducing data ingestion time by ~90%.
-
-*Stack: Python, BigQuery, APIs*
+This GitHub is where I experiment, prototype, and occasionally turn things into something real.
 
 ---
 
-### Revenue & Portfolio Optimization (Fundraising)
-Modeled and optimized a portfolio of ~14K prospects, identifying $15B+ in modeled philanthropic potential and redistributing ~1.4K accounts across teams.
+## Things I’ve Built
 
-Activated 600+ dormant prospects and improved portfolio coverage and prioritization for frontline fundraisers.
+### 🧭 Geospatial Targeting Engine
+A system for identifying high-value outreach locations using Google Places + demographic signals.
 
-*Stack: SQL, Python, BI tools*
+→ explores: API ingestion, feature engineering, geospatial filtering, targeting logic  
+→ outcome: surfaced ~15K candidate locations for real campaign use  
 
----
-
-### CRM Opportunity Scoring Model
-Developed a forward-tested machine learning model on 40K+ historical opportunities to predict likelihood of success and uncover bias in reported win rates.
-
-The model surfaced systemic overestimation in pipeline reporting and improved planning accuracy for revenue teams.
-
-*Stack: Python, scikit-learn, SQL*
+(repo coming soon — currently private)
 
 ---
 
-### Data Pipeline & Analytics (Global COVID Tracking)
-Built an end-to-end ETL pipeline and data warehouse to track global COVID-19 trends, supporting analysis and visualization across multiple regions.
+### 🧮 Cohort & Revenue Analysis System
+A reusable SQL + BI workflow for understanding retention, cohort behavior, and revenue patterns.
 
-Integrated cleaned data into dashboards used for exploratory analysis and reporting.
+→ explores: window functions, cohort modeling, time-series breakdowns  
+→ includes: SQL logic + Tableau dashboard  
 
-*Stack: Python, SQL, MySQL, Tableau*
-
----
-
-## What I Work On
-
-- Analytics engineering & data modeling  
-- Decision-focused analytics (not just dashboards)  
-- Data products and internal tools  
-- Applied machine learning in real-world workflows  
+🔗 https://github.com/k10sj02/sql-cohort-analysis
 
 ---
 
-## Tech
+### 🦠 Data Pipeline: Global COVID Tracking
+End-to-end pipeline for ingesting, cleaning, and analyzing global COVID data.
 
-**Core:** SQL, Python  
-**Data:** BigQuery, Snowflake, PostgreSQL, dbt  
-**Viz:** Power BI, Tableau  
-**Infra:** Git, Docker, cloud (GCP/AWS)
+→ explores: ETL design, warehouse modeling, data cleaning at scale  
+→ includes: Python pipeline + SQL warehouse + dashboard  
 
----
-
-## Background
-
-Originally trained in political science and statistics (MSc), I started my career in social impact — working across finance, advocacy, and global development.
-
-That background still shapes how I approach data: I focus on systems that actually influence decisions, not just analysis for its own sake.
+🔗 https://github.com/k10sj02/covid-tracking-project-sql
 
 ---
 
-## Currently Exploring
+### 🧪 SQL Patterns & Experiments
+Collection of SQL problem-solving patterns (CTEs, window functions, transformations).
 
-- Data products & lightweight apps  
-- Automation & decision systems  
-- Scaling analytics in messy, real-world environments  
+→ less about results, more about thinking in SQL  
+
+🔗 https://github.com/k10sj02/serious-sql
 
 ---
 
-## Connect
+## What I Care About
 
-- https://stannomarjones.com  
-- https://github.com/k10sj02  
-- https://linkedin.com/in/stannomarjones
+- building systems > one-off analysis  
+- decision-making > dashboards  
+- clarity in messy data environments  
+- tools that actually get used  
+
+---
+
+## Tech I Reach For
+
+SQL · Python · BigQuery · dbt · Snowflake  
+Tableau · Power BI  
+APIs · data pipelines · lightweight ML  
+
+---
+
+## In Progress
+
+- turning analytical workflows into actual products  
+- building more opinionated, end-to-end systems  
+- exploring where analytics meets software  
+
+---
+
+## Elsewhere
+
+🌐 https://stannomarjones.com  
+💼 https://linkedin.com/in/stannomarjones
