@@ -1,81 +1,84 @@
-# Hi there, I’m Stann 👋🏽
+# Hi, I’m Stann 👋🏽
 
-I build data systems, models, and tools that help people make better decisions.
+I build end-to-end data systems that turn messy real-world data into decisions, products, and strategy.
 
-Most of my work sits somewhere between analytics, engineering, and product — usually in messy, real-world environments (fundraising, civic tech, ops).
+> Previously built systems used across:
+> → $15B+ modeled fundraising portfolios  
+> → 40K+ lead scoring pipelines  
+> → 500K+ voter outreach interactions across 13 U.S. states and 5 Canadian provinces
 
-This GitHub is where I experiment, prototype, and occasionally turn things into something real.
+Most of my work lives at the intersection of:
+→ analytics engineering  
+→ applied modeling  
+→ product thinking  
 
----
-
-## Things I’ve Built
-
-### 🧭 Geospatial Targeting Engine
-A system for identifying high-value outreach locations using Google Places + demographic signals.
-
-→ explores: API ingestion, feature engineering, geospatial filtering, targeting logic  
-→ outcome: surfaced ~15K candidate locations for real campaign use  
-
-(repo coming soon — currently private)
+Often in environments where the data is incomplete, biased, or operationally messy (fundraising, civic tech, campaigns).
 
 ---
 
-### 🧮 Cohort & Revenue Analysis System
-A reusable SQL + BI workflow for understanding retention, cohort behavior, and revenue patterns.
+## 🚀 Featured Projects
 
-→ explores: window functions, cohort modeling, time-series breakdowns  
-→ includes: SQL logic + Tableau dashboard  
+### 🗳️ Voter Engagement Targeting & Analytics System  
+End-to-end data pipeline and targeting system for a national voter outreach campaign across 13 U.S. swing states.
 
-🔗 https://github.com/k10sj02/sql-cohort-analysis
+→ designed and operationalized the geospatial targeting pipeline (Google Places + Census enrichment) 
+→ partnered with messaging analytics pipeline (ThruText → S3 → GCS → BigQuery) to enable downstream reporting
 
----
+→ developed a **service density KPI** to quantify outreach coverage vs real-world infrastructure  
+→ identified **400K+ locations** and prioritized high-impact communities for outreach  
+→ informed targeting and deployment strategy across **15,000+ engagement sites**
 
-### 🦠 Data Pipeline: Global COVID Tracking
-End-to-end pipeline for ingesting, cleaning, and analyzing global COVID data.
-
-→ explores: ETL design, warehouse modeling, data cleaning at scale  
-→ includes: Python pipeline + SQL warehouse + dashboard  
-
-🔗 https://github.com/k10sj02/covid-tracking-project-sql
+🔗 https://github.com/k10sj02/barbershop-voter-engagement-analytics  
 
 ---
 
-### 🧪 SQL Patterns & Experiments
-Collection of SQL problem-solving patterns (CTEs, window functions, transformations).
+### 💸 Donor Retention & Propensity System
+Production-style donor scoring system modeled on real fundraising workflows.
 
-→ less about results, more about thinking in SQL  
+→ engineered RFM features from transactional donation data to reflect donor lifecycle behavior
+→ trained logistic regression model (AUC ~0.82) to predict likelihood of repeat giving
+→ designed segmentation framework (Low / Medium / High) to support prioritization and outreach strategy
 
-🔗 https://github.com/k10sj02/serious-sql
+→ deployed as an interactive application for scoring, filtering, and operational use by fundraising teams
 
----
-
-## What I Care About
-
-- building systems > one-off analysis  
-- decision-making > dashboards  
-- clarity in messy data environments  
-- tools that actually get used  
+🔗 https://github.com/k10sj02/nonprofit-donor-scoring  
 
 ---
 
-## Tech
+### 🧠 Behavioral Modeling: Gender Norms  
+Predictive modeling and model validation study on how social norms shape behavior.
+
+→ trained classification models (Random Forest, Logistic Regression) on attitudinal survey data  
+→ identified a **hard performance ceiling (~0.65 AUC)** and investigated underlying causes of limited predictability  
+→ traced constraints to survey design, measurement limitations, and noise in self-reported attitudes  
+
+→ paired modeling with a literature review to contextualize results within social science research  
+
+→ deployed an interactive app to surface predictions and feature-level drivers  
+
+🔗 https://github.com/k10sj02/gender-norms-predictor  
+
+---
+
+## 🧪 What I Focus On
+
+- building **systems**, not one-off analysis  
+- turning data into **decisions, not dashboards**  
+- designing **metrics that actually reflect reality**  
+- working in **imperfect, real-world data environments**  
+
+---
+
+## ⚙️ Tech
 
 **Core:** SQL, Python  
-**Data:** BigQuery, Snowflake, PostgreSQL, dbt  
-**Viz:** Power BI, Tableau, Looker  
-**Infra:** Git, Docker, cloud (GCP/AWS) 
+**Warehousing:** BigQuery, Snowflake, PostgreSQL, dbt  
+**Apps & Viz:** Streamlit, Tableau, Power BI, Looker  
+**Infra:** GCP, AWS, Docker, Git  
 
 ---
 
-## In Progress
+## 🌐 Elsewhere
 
-- turning analytical workflows into actual products  
-- building more opinionated, end-to-end systems  
-- exploring where analytics meets software  
-
----
-
-## Elsewhere
-
-🌐 https://stannomarjones.com  
-💼 https://linkedin.com/in/stannomarjones
+Portfolio: https://stannomarjones.com  
+LinkedIn: https://linkedin.com/in/stannomarjones  
