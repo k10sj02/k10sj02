@@ -7,7 +7,7 @@ I build end-to-end data systems that turn messy real-world data into decisions, 
 > → 40K+ lead scoring pipelines  
 > → 500K+ voter outreach interactions across 13 U.S. states and 5 Canadian provinces
 
-Most of my work lives at the intersection of:
+Most of my work lives at the intersection of:  
 → analytics engineering  
 → applied modeling  
 → product thinking  
