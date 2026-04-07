@@ -3,7 +3,7 @@
 I build end-to-end data systems that turn messy real-world data into decisions about where to focus, who to prioritize, and how to allocate limited resources.
 
 > Previously built systems used across:  
-> → $15B+ in modeled fundraising portfolios  
+> → $16B+ in modeled fundraising portfolios  
 > → 500K+ leads scored in production CRM pipelines  
 > → 150K+ voter outreach interactions across 13 U.S. states and 5 Canadian provinces
 
