@@ -46,7 +46,7 @@ Production-style donor scoring system modeled on real fundraising workflows, pri
 ---
 
 ### 🧠 Behavioral Modeling: Gender Norms  
-Predictive modeling and validation study on social norms, exploring why behavioral outcomes are inherently difficult to predict in real-world data.
+Predictive modeling and validation study on how social norms shape behavior, highlighting the limits of prediction in complex, real-world data.
 
 → trained classification models (Random Forest, Logistic Regression) on attitudinal survey data  
 → identified a **hard performance ceiling (~0.65 AUC)** and investigated underlying causes of limited predictability  
