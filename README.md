@@ -2,7 +2,7 @@
 
 I build end-to-end data systems that turn messy real-world data into decisions, products, and strategy.
 
-> Previously built systems used across:
+> Previously built systems used across:  
 > → $15B+ modeled fundraising portfolios  
 > → 40K+ lead scoring pipelines  
 > → 500K+ voter outreach interactions across 13 U.S. states and 5 Canadian provinces
