@@ -35,7 +35,7 @@ End-to-end data pipeline and targeting system for a national voter outreach camp
 Production-style donor scoring system modeled on real fundraising workflows, prioritizing high-probability and dormant donors to improve the allocation of fundraising effort toward high-value opportunities.
 
 → engineered RFM features from transactional donation data to reflect donor lifecycle behavior  
-→ trained logistic regression model (AUC ~0.82) to predict likelihood of repeat giving
+→ trained logistic regression model (AUC ~0.82) to predict likelihood of repeat giving  
 → designed segmentation framework (Low / Medium / High) to support prioritization and outreach strategy
 
 → deployed as an interactive application for scoring, filtering, and operational use by fundraising teams
