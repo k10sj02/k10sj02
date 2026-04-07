@@ -19,7 +19,7 @@ Often in environments where the data is incomplete, biased, or operationally mes
 ## 🚀 Featured Projects
 
 ### 🗳️ Voter Engagement Targeting & Analytics System  
-End-to-end data pipeline and targeting system for a national voter outreach campaign across 13 U.S. swing states, uncovering previously unknown outreach locations and driving targeting and deployment across 15,000+ outreach locations
+End-to-end data pipeline and targeting system for a national voter outreach campaign across 13 U.S. swing states, uncovering previously unknown outreach locations and driving targeting and deployment across 15,000+ outreach locations.
 
 → designed and operationalized the geospatial targeting pipeline (Google Places → Census enrichment → BigQuery)  
 → partnered with messaging analytics pipeline (ThruText → S3 → GCS → BigQuery) to enable downstream reporting
