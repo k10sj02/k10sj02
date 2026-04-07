@@ -26,7 +26,6 @@ End-to-end data pipeline and targeting system for a national voter outreach camp
 
 → developed a **service density KPI** to quantify outreach coverage vs real-world infrastructure  
 → identified **400K+ locations** and prioritized high-impact communities for outreach  
-→ informed targeting and deployment strategy across **15,000+ engagement sites**
 
 🔗 https://github.com/k10sj02/barbershop-voter-engagement-analytics  
 
