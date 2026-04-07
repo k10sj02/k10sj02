@@ -1,6 +1,6 @@
 # Hi, I’m Stann 👋🏽
 
-I build end-to-end data systems that turn messy real-world data into decisions, products, and strategy.
+I build end-to-end data systems that turn messy real-world data into decisions about where to focus, who to prioritize, and how to allocate resources.
 
 > Previously built systems used across:  
 > → $15B+ modeled fundraising portfolios  
@@ -19,7 +19,7 @@ Often in environments where the data is incomplete, biased, or operationally mes
 ## 🚀 Featured Projects
 
 ### 🗳️ Voter Engagement Targeting & Analytics System  
-End-to-end data pipeline and targeting system for a national voter outreach campaign across 13 U.S. swing states.
+End-to-end data pipeline and targeting system for a national voter outreach campaign across 13 U.S. swing states, uncovering previously unknown outreach locations and driving targeting and deployment across 15,000+ outreach locations
 
 → designed and operationalized the geospatial targeting pipeline (Google Places → Census enrichment → BigQuery)  
 → partnered with messaging analytics pipeline (ThruText → S3 → GCS → BigQuery) to enable downstream reporting
@@ -33,7 +33,7 @@ End-to-end data pipeline and targeting system for a national voter outreach camp
 ---
 
 ### 💸 Donor Retention & Propensity System
-Production-style donor scoring system modeled on real fundraising workflows.
+Production-style donor scoring system modeled on real fundraising workflows, prioritizing high-probability and dormant donors to improve allocation of fundraising effort.
 
 → engineered RFM features from transactional donation data to reflect donor lifecycle behavior  
 → trained logistic regression model (AUC ~0.82) to predict likelihood of repeat giving
@@ -46,7 +46,7 @@ Production-style donor scoring system modeled on real fundraising workflows.
 ---
 
 ### 🧠 Behavioral Modeling: Gender Norms  
-Predictive modeling and model validation study on how social norms shape behavior.
+Predictive modeling and validation study on social norms, exploring why behavioral outcomes are inherently difficult to predict in real-world data.
 
 → trained classification models (Random Forest, Logistic Regression) on attitudinal survey data  
 → identified a **hard performance ceiling (~0.65 AUC)** and investigated underlying causes of limited predictability  
