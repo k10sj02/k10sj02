@@ -34,13 +34,13 @@ End-to-end data pipeline and targeting system for a national voter outreach camp
 ---
 
 ### 💸 Donor Retention & Propensity System
-Donor scoring system modeled on real fundraising workflows, prioritizing high-probability and dormant donors to improve the allocation of fundraising effort toward high-value opportunities.  
+Donor propensity scoring system for nonprofits, built to prioritize outreach toward donors most likely to give again.
 
-→ engineered RFM features from transactional donation data to reflect donor lifecycle behavior  
-→ trained logistic regression model (AUC ~0.82) to predict likelihood of repeat giving  
-→ designed segmentation framework (Low / Medium / High) to support prioritization and outreach strategy
+→ engineered 15+ RFM and donor profile features from transactional data to capture giving lifecycle behavior
+→ trained Random Forest classifier (ROC-AUC 0.87, 2.5x lift at top 33%) to predict likelihood of repeat giving
+→ designed four-tier segmentation framework (High / Medium / Low / Very Low) with actionable outreach guidance per tier
 
-→ deployed as an interactive application for scoring, filtering, and operational use by fundraising teams
+→ deployed as an interactive Streamlit app with CSV ingestion, column mapping, live filtering, and export for fundraising teams
 
 🔗 https://github.com/k10sj02/nonprofit-donor-scoring  
 
