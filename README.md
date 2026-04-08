@@ -12,7 +12,9 @@ Most of my work lives at the intersection of:
 → applied modeling  
 → product thinking  
 
-Often in environments where the data is incomplete, biased, or operationally messy (fundraising, civic tech, campaigns, early-stage startups). In practice, much of my work involves building data systems that help organizations decide who to ask, how much to ask, and when to ask — whether the audience is donors, voters, or customers.
+Often in environments where the data is incomplete, biased, or operationally messy (fundraising, civic tech, campaigns, early-stage startups).  
+
+In practice, much of my work involves building data systems that help organizations decide who to ask, how much to ask, and when to ask — whether the audience is donors, voters, or customers.
 
 ---
 
