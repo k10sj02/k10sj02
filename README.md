@@ -5,14 +5,14 @@ I build end-to-end data systems that turn messy real-world data into decisions a
 > Previously built systems used across:  
 > → $16B+ in modeled fundraising portfolios  
 > → 500K+ leads scored in production CRM pipelines  
-> → 150K+ voter outreach interactions across 13 U.S. states and 5 Canadian provinces
+> → 150K+ voter outreach interactions across 13 U.S. states and 5 Canadian provinces, spanning 900+ communities
 
 Most of my work lives at the intersection of:  
 → analytics engineering  
 → applied modeling  
 → product thinking  
 
-Often in environments where the data is incomplete, biased, or operationally messy (fundraising, civic tech, campaigns, early-stage startups).
+Often in environments where the data is incomplete, biased, or operationally messy (fundraising, civic tech, campaigns, early-stage startups). In practice, much of my work involves building data systems that help organizations decide who to ask, how much to ask, and when to ask — whether the audience is donors, voters, or customers.
 
 ---
 
@@ -32,7 +32,7 @@ End-to-end data pipeline and targeting system for a national voter outreach camp
 ---
 
 ### 💸 Donor Retention & Propensity System
-Production-style donor scoring system modeled on real fundraising workflows, prioritizing high-probability and dormant donors to improve the allocation of fundraising effort toward high-value opportunities.
+Donor scoring system modeled on real fundraising workflows, prioritizing high-probability and dormant donors to improve the allocation of fundraising effort toward high-value opportunities. In real life, I build data systems that help fundraising teams decide who to ask, how much to ask, and when to ask.
 
 → engineered RFM features from transactional donation data to reflect donor lifecycle behavior  
 → trained logistic regression model (AUC ~0.82) to predict likelihood of repeat giving  
@@ -63,7 +63,7 @@ Predictive modeling and validation study on how social norms shape behavior, hig
 
 - building **systems**, not one-off analysis  
 - turning data into **decisions, not dashboards**  
-- designing **metrics that actually reflect reality**  
+- designing **metrics that actually reflect real-world behavior**  
 - working in **imperfect, real-world data environments**  
 
 ---
