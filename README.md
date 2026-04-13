@@ -46,6 +46,18 @@ Donor propensity scoring system for nonprofits modeled on real fundraising workf
 
 ---
 
+### 🗂️ Voter Registration Data Pipeline
+Production-style partner data ingestion pipeline for a voter registration reporting model, handling the full transformation lifecycle from raw extract to unified reporting table.  
+→ designed a three-layer architecture (raw → staging → mart) with an auditable, non-destructive working copy at each stage  
+→ built deterministic validation rules for contact data (email, ZIP, NANP phone) and demographic bounds (age 18–105, recency constraints)  
+→ engineered county enrichment via ZIP lookup using LEFT JOIN to preserve record fidelity over silent data loss  
+→ implemented window-function deduplication with explicit tie-breaking logic (Complete status → recency → email)  
+→ produced schema-aligned UNION ALL integration with semantic field mapping and UUID surrogate keys for lineage tracking  
+
+🔗 https://github.com/k10sj02/voter-reg-pipeline
+
+---
+
 ### 🧠 Behavioral Modeling: Gender Norms  
 Predictive modeling and validation study on how social norms shape behavior, highlighting the limits of prediction in complex, real-world data.
 
