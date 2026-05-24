@@ -1,6 +1,6 @@
 # Hi, I’m Stann 👋🏽
 
-I build end-to-end data systems that turn messy real-world data into decisions about where to focus, who to prioritize, and how to allocate limited resources.
+**I’m a computational social scientist and analytics engineer.** I build end-to-end data systems that turn messy real-world data into decisions about where to focus, who to prioritize, and how to allocate limited resources.
 
 > Previously built systems used across:  
 > → $16B+ in modeled fundraising portfolios  
